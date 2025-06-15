@@ -1,7 +1,11 @@
 <h1>Hi, I'm Adrian! <br/><a href="https://github.com/Akelly-Projects/)"></a>, <a href="https://www.linkedin.com/in/adriankellyjohnson">Network Security Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
-<h2>👨‍💻 Network Security Projects:</h2>
+<h2>Certifications<h2>
+  
+  - [CCNA] (https://www.credly.com/badges/4d15af96-3839-4d56-8af8-2c892126220e)
+  - [AZ-900] (https://learn.microsoft.com/en-us/users/adriankelly-5556/credentials/93ea32764d37d20?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
+<h2>👨‍💻 Network Security Projects:</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
