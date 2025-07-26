@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adrian! <br/><a href="https://github.com/Akelly-Projects/)"></a>, <a href="https://www.linkedin.com/in/adriankellyjohnson">Network Security Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Adrian Kelly! <br/><a href="https://github.com/Akelly-Projects/)"></a>, <a href="https://www.linkedin.com/in/adriankellyjohnson">Network Security Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>Certifications<h2>
   
